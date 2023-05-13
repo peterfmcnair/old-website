@@ -66,7 +66,7 @@ author: Peter McNair
 
 navbar-links:
   About Me: "about"
-  Blog: "personal-blog"
+  Blog: "blog"
   Portfolio: "portfolio"
 
 ################
@@ -312,7 +312,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      permalink: /personal-blog/:categories/:year-:month-:day/:title/
+      permalink: /blog/:categories/:year-:month-:day/:title/
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
