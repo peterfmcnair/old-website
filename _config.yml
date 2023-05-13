@@ -312,7 +312,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      permalink: /personal_blog/:categories/:year-:month-:day/:title/
+      permalink: /personal-blog/:categories/:year-:month-:day/:title/
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
