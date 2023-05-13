@@ -68,8 +68,8 @@ author: Peter McNair
 
 navbar-links:
   About Me: "about"
-  Blog: "https://peterfmcnair.com/blog/"
-  Portfolio: "https://peterfmcnair.com/portfolio/"
+  Blog: "blog"
+  Portfolio: "portfolio"
 
 ################
 # --- Logo --- #
@@ -302,7 +302,6 @@ date_format: "%B %-d, %Y"
 timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
 paginate: 5
 
 kramdown:
@@ -316,6 +315,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      permalink: /blog/:categories/:year-:month-:day/:title/
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
