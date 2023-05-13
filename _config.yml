@@ -54,8 +54,6 @@
 
 # Build settings
 remote_theme: daattali/beautiful-jekyll@5.0.0
-plugins:
-  - jekyll-feed
 # Name of website
 title: Peter's Site
 
@@ -137,7 +135,7 @@ url: "https://peterfmcnair.com" # the base hostname & protocol for your site, e.
 github_username:  peterfmcnair
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   linkedin: true
   vk: false
@@ -337,6 +335,6 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
+  - jekyll-feed
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
