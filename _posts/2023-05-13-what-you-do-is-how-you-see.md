@@ -4,7 +4,7 @@ title:  "What you do is how you see"
 subtitle: 
 date:   2023-05-14 09:03:12 +1000
 categories: [psychology]
-tags: 
+tags: [career,perspective]
 ---
 # Vocational tinting
 I have often wondered to what degree our jobs or vocations colour how we view the world.
