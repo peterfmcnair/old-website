@@ -2,7 +2,8 @@
 layout: post
 title:  "Welcome to my blog!"
 date:   2023-05-01 20:43:48 +1000
-categories: ["personal"]
+categories: [personal]
+tags: [jekyll, coding, philosophy]
 ---
 
 # Introduction

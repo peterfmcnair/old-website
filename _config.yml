@@ -303,7 +303,6 @@ timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-
 kramdown:
   input: GFM
 
