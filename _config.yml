@@ -66,7 +66,7 @@ author: Peter McNair
 
 navbar-links:
   About Me: "about"
-  Blog: "blog"
+  Blog: "personal_blog"
   Portfolio: "portfolio"
 
 ################
@@ -312,7 +312,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      permalink: /blog/:categories/:year-:month-:day/:title/
+      permalink: /personal_blog/:categories/:year-:month-:day/:title/
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
@@ -320,6 +320,11 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+
+
+collections:
+  test:
+    output: true
 
 # Exclude these files from production site
 exclude:
