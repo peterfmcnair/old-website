@@ -65,9 +65,9 @@ author: Peter McNair
 ###############################################
 
 navbar-links:
-  About Me: "about/"
-  Blog: "blog/"
-  Portfolio: "portfolio/"
+  About Me: "about"
+  Blog: "blog"
+  Portfolio: "portfolio"
 
 ################
 # --- Logo --- #
