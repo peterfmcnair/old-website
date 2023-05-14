@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "What you do is how you see"
 subtitle: 
 date:   2023-05-14 09:03:12 +1000
