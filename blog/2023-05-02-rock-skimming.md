@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Rock Skimming"
 date:   2023-05-02 20:05:15 +1000
 categories: [philosophy]

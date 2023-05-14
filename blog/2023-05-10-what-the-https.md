@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "What the HTTPS!?"
 date:   2023-05-10 20:50:23 +1000
 categories:

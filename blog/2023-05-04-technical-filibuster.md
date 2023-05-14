@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The Technical Filibuster"
 date:   2023-05-04 17:31:30 +1000
 categories:
