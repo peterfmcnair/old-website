@@ -13,14 +13,14 @@ I'm often reminded of stoic philosophy when I feel like I have alot of things to
 ## The venn diagram of control
 A way that can help illustrate what you do/don't have a say in is by listing out all the tasks, decisions and happenings in your life. These can then (in a very coarse-grained way) be separated into 'in your control', 'out of your control' and a bit of both.
 <p align="center">
-  <img width="460" height="300" src="../assets/img/stay-at-the-helm-if-overwhelmed-attachment.png">
+  <img width="100%" height="100%" src="../assets/img/stay-at-the-helm-if-overwhelmed-attachment.png">
 </p>
 To misquote Shakespeare, therein lies the rub; there are things that you both can and cannot control. This could be planning an event outside, where inclement weather can be known at best a little in advance.
 <p align="center">
-  <img width="460" height="300" src="../assets/img/stay-at-the-helm-if-overwhelmed-attachment%201.png">
+  <img width="100%" height="100%" src="../assets/img/stay-at-the-helm-if-overwhelmed-attachment%201.png">
 </p>
 ## Stay at the helm
 The main thing to know is that you always have a say with what you do *in this moment*. There are millions of moments, and they each fall neatly after the one that has just passed - so stay the course. Knowing that you are still at the helm is a powerful mentality.
 <p align="center">
-  <img width="460" height="300" src="../assets/img/Drawing%202023-05-23%2020.30.11.excalidraw.svg">
+  <img width="100%" height="100%" src="../assets/img/Drawing%202023-05-23%2020.30.11.excalidraw.svg">
 </p>
