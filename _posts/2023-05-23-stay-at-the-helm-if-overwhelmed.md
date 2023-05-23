@@ -12,7 +12,7 @@ Currently I'm feeling the weight of many projects pile up. Between uni, work com
 I'm often reminded of stoic philosophy when I feel like I have alot of things to do - that is you should only be concerned about those things you have some degree of control over, and most things are out of your control.
 ## The venn diagram of control
 A way that can help illustrate what you do/don't have a say in is by listing out all the tasks, decisions and happenings in your life. These can then (in a very coarse-grained way) be separated into 'in your control', 'out of your control' and a bit of both.
-![](attachments/stay-at-the-helm-if-overwhelmed-attachment.png)
+![](../attachments/stay-at-the-helm-if-overwhelmed-attachment.png)
 To misquote Shakespeare, therein lies the rub; there are things that you both can and cannot control. This could be planning an event outside, where inclement weather can be known at best a little in advance.
-![](attachments/stay-at-the-helm-if-overwhelmed-attachment%201.png)
+![](../attachments/stay-at-the-helm-if-overwhelmed-attachment%201.png)
 
