@@ -13,6 +13,7 @@ I'm often reminded of stoic philosophy when I feel like I have alot of things to
 ## The venn diagram of control
 A way that can help illustrate what you do/don't have a say in is by listing out all the tasks, decisions and happenings in your life. These can then (in a very coarse-grained way) be separated into 'in your control', 'out of your control' and a bit of both.
 ![](../assets/img/stay-at-the-helm-if-overwhelmed-attachment.png)
+
 To misquote Shakespeare, therein lies the rub; there are things that you both can and cannot control. This could be planning an event outside, where inclement weather can be known at best a little in advance.
 ![](../assets/img/stay-at-the-helm-if-overwhelmed-attachment%201.png)
 
