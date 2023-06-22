@@ -1,1 +1,0 @@
-# How the internet encourages info-binging
