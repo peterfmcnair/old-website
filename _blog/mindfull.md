@@ -2,7 +2,8 @@
 date: 2023-06-22
 tags: 
 aliases: 
-layout: post
+permalink: /blog/mindfull
+layout: page
 ---
 # How the modern work culture encourages info-binging
 The threat of not getting a job looms over the zoomers. The classic joke runs like this: "Entry-level graduate role, 5 years' industry experience required". [^1]
