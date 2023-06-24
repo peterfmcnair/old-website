@@ -2,7 +2,6 @@
 date: 2023-06-22
 tags: 
 aliases: 
-permalink: /blog/mindfull
 layout: page
 ---
 # How the modern work culture encourages info-binging
