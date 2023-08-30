@@ -133,7 +133,7 @@ social-network-links:
 email: peterfmcnair@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The home of all things Peter on the web.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: ``` # the subpath of your site, e.g. /blog
 url: "https://peterfmcnair.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  peterfmcnair
 # Select which social network share links to show in posts
