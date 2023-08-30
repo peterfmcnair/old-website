@@ -66,9 +66,11 @@ author: Peter McNair
 
 navbar-links:
   Notes: "https://publish.obsidian.md/peterfmcnair"
+  Now: "now"
   About Me: "about"
   Blog: "blog"
   Portfolio: "portfolio"
+  
 
 ################
 # --- Logo --- #
