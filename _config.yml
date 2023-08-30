@@ -53,7 +53,7 @@
 
 
 # Build settings
-remote_theme: daattali/beautiful-jekyll@6.0.1
+remote_theme: daattali/beautiful-jekyll@5.0.0
 # Name of website
 title: Peter's Site
 
